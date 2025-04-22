@@ -1,4 +1,4 @@
-OpenCV
+# OpenCV
 Different projects such as gesture volume control using python library called OpenCV
 
 Project 1 : Gesture Volume Control
