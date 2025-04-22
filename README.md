@@ -1,10 +1,10 @@
 # OpenCV
 Different projects such as gesture volume control using python library called OpenCV
 
-Project 1 : Gesture Volume Control
+# Project 1 : Gesture Volume Control
 This project allows you to control your computer's volume using intuitive hand gestures captured by your webcam. It leverages the capabilities of OpenCV for computer vision and MediaPipe for hand landmark detection.
 
-Features:
+# Features:
 
 Real-time Volume Control: Adjusts volume in real-time based on the distance between your thumb and index finger.
 Intuitive Gestures: Spread your thumb and index finger apart to increase volume, contract them to decrease volume.
